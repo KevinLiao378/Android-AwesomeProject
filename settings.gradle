@@ -1,3 +1,3 @@
-rootProject.name = 'AwesomeProject'
+rootProject.name = 'RN集成测试项目'
 include ':app'
 include ':lib-hybrid'
